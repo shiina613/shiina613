@@ -3,7 +3,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&height=50&lines=Hi+there!+I'm+Shiina+%F0%9F%91%8B;AI+Platform+%26+MLOps+Architect;Deep+Learning+%26+Systems+Thinker;Building+Autonomous+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&height=50&lines=Hi+there!+I'm+Shiina+%F0%9F%91%8B;AI+Platform+%26+MLOps+Architect;Deep+Learning+%26+Systems+Thinker;Building+Autonomous+AI+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,22 +25,23 @@
 
 ---
 
-### 💫 About Me
+### 💫 Active Focus & Daily Endeavors
 
 ```yaml
 identity:
   name: Shiina
   role: AI System & Product Architect / Deep Learning Researcher
-  focus: AI Platforms, MLOps/LLMOps Infrastructure, Autonomous Speech & Vision
+  core_focus:
+    primary: "AI Platform Architect — Enterprise MLOps, LLMOps Infrastructure, Kubernetes & Model Serving"
+    daily_endeavors:
+      - "AI Companion Architecture — Voice-first Speech ASR/TTS, EdTech Pedagogy & On-Device Optimization"
+      - "IELTS Academic Mastery — Self-paced multi-skill adaptive system built with UbD & TBLT"
   mindset: Systems Thinking + Evidence-Driven Engineering + Continuous Learning
-  principles:
-    - Clarity Over Hype: "Understand WHAT, WHY, and ROI before writing a single line of code."
-    - Open-Book Exploration: "Turn complex problems into structured exploration sandboxes."
-    - Deep Craftsmanship: "Build self-contained, low-friction, high-reliability systems."
 ```
 
-- 🔭 **Currently Building:** Enterprise MLOps infrastructure, Real-time speech transcription engines, and agentic AI platforms.
-- ⚡ **Core Philosophy:** *Turn complex, non-deterministic AI challenges into robust, measurable, production-grade systems.*
+- 🏗️ **Core Focus:** Building scalable, enterprise-grade AI Platforms, model serving engines, and MLOps/LLMOps infrastructure.
+- 🤖 **Daily Engineering:** Developing voice-first AI Companion architectures, local STT/TTS pipelines, and edge optimization.
+- 🌟 **Daily Learning:** Self-studying IELTS Academic with evidence-based curriculum design and exploratory test sandboxes.
 
 ---
 
@@ -75,13 +76,13 @@ identity:
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🧠 [**`ai-product-architect`**](https://github.com/shiina613/ai-product-architect) | Agentic AI Product Architecture, RAG/Vector evaluation & decision gates. | Markdown, Agentic Playbook, LLMOps |
+| 🗺️ [**`ai-companion-roadmap`**](https://github.com/shiina613/ai-companion-roadmap) | 5-phase engineering roadmap for voice-first, edge-optimized AI companions. | Python, PyTorch, Speech/NLP, Edge AI |
+| 🌟 [**`ielts`**](https://github.com/shiina613/ielts) | Personalized multi-skill IELTS Academic system built with UbD & TBLT. | Markdown, Node.js, Adaptive Learning |
 | 🚀 [**`MLOps`**](https://github.com/shiina613/MLOps) | Enterprise MLOps & LLMOps Onboarding Infrastructure & Capstone. | K8s, KServe, MLflow, Kubeflow, Docker |
 | 📄 [**`Antipaper`**](https://github.com/shiina613/Antipaper) | AI Document Intelligence platform with citation-backed QA & reports. | FastAPI, React/Vite, SQLite, LLMs |
 | 🎙️ [**`KollaMeeting`**](https://github.com/shiina613/KollaMeeting) | Real-time smart meeting platform with PhoWhisper CT2 ASR & digital signing. | Spring Boot, React, FastAPI, WebSockets |
 | ⚡ [**`pingping`**](https://github.com/shiina613/pingping) | Real-time collaboration portal, Kanban, and X-O arena for tech teams. | Vite, Vanilla JS, Supabase, PostgreSQL |
 | 🔌 [**`claudex`**](https://github.com/shiina613/claudex) | Private VS Code sidebar chat & Chrome companion bridge. | TypeScript, WebSocket, Chrome MV3 |
-| 🎤 [**`extension-talk-with-sesame`**](https://github.com/shiina613/extension-talk-with-sesame) | Privacy-first offline dual-source Speech-to-Text extension. | Chrome MV3, AudioWorklet, Zipformer STT |
-| 🌟 [**`ielts`**](https://github.com/shiina613/ielts) | Personalized multi-skill IELTS Academic system built with UbD & TBLT. | Markdown, Node.js, Adaptive Learning |
 
 ---
 
