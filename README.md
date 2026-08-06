@@ -84,17 +84,26 @@ identity:
 | ⚡ [**`pingping`**](https://github.com/shiina613/pingping) | Real-time collaboration portal, Kanban, and X-O arena for tech teams. | Vite, Vanilla JS, Supabase, PostgreSQL |
 | 🔌 [**`claudex`**](https://github.com/shiina613/claudex) | Private VS Code sidebar chat & Chrome companion bridge. | TypeScript, WebSocket, Chrome MV3 |
 
----
+### ⚡ Core Engineering & Architectural Strengths
 
-### 📊 GitHub Activity & Analytics
+```yaml
+architectural_pillars:
+  01_mlops_llmops_infrastructure:
+    focus: "Enterprise-grade AI Platform & Scale-to-Zero Model Serving"
+    strengths: ["Kubernetes / KServe Orchestration", "MLflow Experimentation & Tracking", "CI/CD & LLMOps Pipeline Gatekeeping"]
+  02_voice_speech_intelligence:
+    focus: "Real-time Low-Latency Voice Systems & Audio AI"
+    strengths: ["PhoWhisper CT2 ASR & Custom Speech Annotation", "Vietnamese-English Code-Switching STT/TTS", "Non-Verbal Speech Understanding & Guardrails"]
+  03_agentic_systems_defensive_engineering:
+    focus: "High-Reliability AI Agents & Production Software"
+    strengths: ["RAG / Vector Evaluation & Decision Gates", "Contract Testing & Defensive Architecture", "Custom IDE & Browser Extensions"]
+```
 
-<div align="center">
-  <br/>
-  
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=shiina613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shiina's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shiina613&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shiina's Top Languages" />
+- 🏗️ **Enterprise MLOps & LLMOps Infrastructure:** Proven capability in building scale-to-zero model serving architectures (K8s, KServe, MLflow) and production AI pipelines.
+- 🎙️ **Voice-First & Speech Intelligence:** Deep expertise in low-latency ASR/TTS engines, code-switching speech recognition, and contextual non-verbal acoustic labeling.
+- 🛡️ **Defensive Engineering & Systems Craftsmanship:** Strict adherence to contract-driven testing, clean system architecture, and rapid end-to-end execution.
+- 🧩 **Agentic Workflows & Adaptive Systems:** Designing intelligent decision gates, adaptive learning frameworks (UbD/TBLT), and developer productivity tools.
 
-</div>
 
 ---
 
