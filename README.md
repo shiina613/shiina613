@@ -1,9 +1,6 @@
-<!-- shiina613 GitHub Profile README — High-Tech Data Circuit Concept -->
+<!-- shiina613 GitHub Profile README -->
 
 <div align="center">
-
-  <!-- High-Tech Header Banner (Electric Cyan & Deep Obsidian Circuit Palette) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:0369a1,100:00f2fe&height=200&section=header&text=SHIINA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <!-- Animated Typing SVG Header -->
   <a href="https://git.io/typing-svg">
@@ -116,16 +113,6 @@ architectural_pillars:
 
 <br/>
 
-### 📈 Activity & Data Flow
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiina613&theme=dark&hide_border=true&background=0b0f19&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=38bdf8&sideTitle=00f2fe" alt="Shiina's Streak Stats" width="80%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:0369a1,100:0b0f19&height=120&section=footer" width="100%" />
-  <br/>
   <sub>Built with ❤️ & Systems Thinking by Shiina</sub>
 </div>
