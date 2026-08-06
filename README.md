@@ -1,54 +1,54 @@
-<!-- shiina613 GitHub Profile README — Cyberpunk Obsidian & Matrix Glow Concept -->
+<!-- shiina613 GitHub Profile README — Stealth Shadow & Classified Dossier Concept -->
 
 <div align="center">
 
-  <!-- Cyberpunk Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:0284c7,100:4f46e5&height=200&section=header&text=SHIINA%20%E2%9A%A1&fontSize=42&fontColor=00f2fe&animation=twinkling&fontAlignY=38" width="100%" />
+  <!-- Stealth Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:7f1d1d,100:18181b&height=200&section=header&text=%5B%20CLASSIFIED%20DOSSIER%20%5D&fontSize=38&fontColor=ef4444&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- Animated Cyber Typing SVG Header -->
+  <!-- Animated Stealth Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=50&lines=%E2%9A%A1+Cyberpunk+AI+Systems+%26+MLOps+Architect;%F0%9F%A4%96+Deep+Learning+%E2%80%A2+Speech+Intelligence;%F0%9F%9B%A1%EF%B8%8F+High-Reliability+Agentic+Execution;%F0%9F%94%AE+Systems+Thinking+%E2%80%A2+Defensive+Architecture" alt="Cyberpunk Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EF4444&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%90%B7+%5BCLASSIFIED%5D+AI+Systems+%26+MLOps+Architect;%F0%9F%8E%AF+Deep+Learning+%E2%80%A2+Speech+Intelligence;%F0%9F%9B%A1%EF%B8%8F+High-Reliability+Agentic+Execution;%F0%9F%91%81%EF%B8%8F+Systems+Thinking+%E2%80%A2+Stealth+Architecture" alt="Stealth Typing SVG" />
   </a>
 
   <p align="center">
-    <b>⚡ AI Platform Architect</b> &bull; <b>🧠 Deep Learning Researcher</b> &bull; <b>⚙️ Cyber Systems Specialist</b>
+    <b>🕶️ AI Platform Architect</b> &bull; <b>🧠 Deep Learning Researcher</b> &bull; <b>🛡️ Stealth Engineer</b>
   </p>
 
-  <!-- Cyber Quote -->
+  <!-- Stealth Quote -->
   <p align="center">
-    <i>"In an ocean of noise, clean code and systems thinking are the ultimate signal."</i>
+    <i>"Operate in silence. Let the architecture speak through flawless execution."</i>
   </p>
 
-  <!-- Cyber Badges -->
+  <!-- Stealth Badges -->
   <p align="center">
-    <a href="https://github.com/shiina613"><img src="https://img.shields.io/github/followers/shiina613?label=Cyber%20Node%20Followers&style=for-the-badge&color=0284c7&logo=github&logoColor=white" alt="GitHub Followers"></a>
-    <a href="https://github.com/shiina613?tab=repositories"><img src="https://img.shields.io/github/stars/shiina613?label=Matrix%20Stars&style=for-the-badge&color=38bdf8&logo=star&logoColor=white" alt="GitHub Stars"></a>
+    <a href="https://github.com/shiina613"><img src="https://img.shields.io/github/followers/shiina613?label=Shadow%20Operatives&style=for-the-badge&color=991b1b&logo=github&logoColor=white" alt="GitHub Followers"></a>
+    <a href="https://github.com/shiina613?tab=repositories"><img src="https://img.shields.io/github/stars/shiina613?label=Clearance%20Stars&style=for-the-badge&color=dc2626&logo=star&logoColor=white" alt="GitHub Stars"></a>
   </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### ⚡ Cyber Obsidian Matrix Dossier
+### 🕶️ Classified Dossier & Black-Ops Initiatives
 
 ```yaml
-matrix_identity:
-  codename: Shiina
-  core_class: "Cybernetics & AI Systems Architect / Deep Learning Specialist"
-  system_nodes:
-    node_01: "Enterprise MLOps / LLMOps Infrastructure — K8s, KServe Scale-to-Zero, MLflow"
-    node_02: "Voice & Speech Intelligence — PhoWhisper CT2 ASR, TTS & Acoustic Labeling"
-    node_03: "Agentic Systems & Defensive Code — RAG Gates, UbD/TBLT Pedagogy & Clean Systems"
-  matrix_credo: "Curiosity x Cyber-Precision x Systems Craftsmanship"
+stealth_dossier:
+  agent_codename: Shiina
+  clearance_level: "Level 5 — AI System & Product Architect"
+  black_ops_initiatives:
+    op_01: "Enterprise Scale-to-Zero MLOps — K8s, KServe, MLflow & CI/CD Gatekeeping"
+    op_02: "Voice Intelligence — PhoWhisper CT2 ASR, TTS & Acoustic Non-Verbal Labeling"
+    op_03: "Agentic Evaluation & Defensive Code — RAG Decision Gates, UbD/TBLT Pedagogy"
+  stealth_motto: "Operate in the Shadows, Build Unbreakable Systems"
 ```
 
-- ⚡ **Node 01 — Infrastructure:** Orchestrating enterprise-grade AI Platforms, high-throughput model serving engines, and resilient MLOps/LLMOps pipelines.
-- 🎙️ **Node 02 — Voice Core:** Engineering low-latency ASR/TTS architectures, Vietnamese-English code-switching models, and acoustic non-verbal understanding.
-- 🛡️ **Node 03 — Defensive Matrix:** Building agentic RAG evaluation decision gates, adaptive educational platforms, and private developer extension bridges (`claudex`).
+- 🎯 **Initiative 01 — Scale Infrastructure:** Designing scale-to-zero model serving architectures (K8s, KServe, MLflow) with strict CI/CD gatekeeping.
+- 🎙️ **Initiative 02 — Voice Core:** Deploying low-latency ASR/TTS engines, Vietnamese-English code-switching pipelines, and acoustic non-verbal understanding.
+- 🛡️ **Initiative 03 — Defensive Matrix:** Building agentic RAG evaluation gates, adaptive educational platforms, and private developer bridges (`claudex`).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🛠️ Cyber Matrix Tech Stack
+### 🛠️ Tactical Tech Arsenal
 
 <div align="center">
 
@@ -75,9 +75,9 @@ matrix_identity:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🚀 Flagship Cyber Deployments
+### 🚀 Classified Projects & Repositories
 
-| Repository | System Overview | Tech Stack |
+| Clearance | Project Mission | Tech Stack |
 |---|---|---|
 | 🧠 [**`ai-product-architect`**](https://github.com/shiina613/ai-product-architect) | Agentic AI Product Architecture, RAG/Vector evaluation & decision gates. | Markdown, Agentic Playbook, LLMOps |
 | 🗺️ [**`ai-companion-roadmap`**](https://github.com/shiina613/ai-companion-roadmap) | 5-phase engineering roadmap for voice-first, edge-optimized AI companions. | Python, PyTorch, Speech/NLP, Edge AI |
@@ -90,12 +90,12 @@ matrix_identity:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### ⚙️ Core Engineering & System Strengths
+### 🛡️ Tactical Engineering Capabilities
 
 ```yaml
-system_strengths:
-  01_enterprise_mlops: "Kubernetes, KServe Scale-to-Zero, MLflow Experimentation, Automated LLMOps Gates"
-  02_voice_speech_intelligence: "Low-Latency PhoWhisper ASR, Vietnamese-English Code-Switching, Acoustic Non-Verbal Labeling"
+tactical_capabilities:
+  01_enterprise_mlops: "K8s, KServe Scale-to-Zero, MLflow Tracking, Automated LLMOps Gatekeeping"
+  02_voice_speech_intelligence: "Low-Latency PhoWhisper CT2 ASR, Vietnamese-English Code-Switching, Non-Verbal Labeling"
   03_defensive_engineering: "Strict Contract Testing, Clean Systems Architecture, High-Reliability Execution"
   04_adaptive_product_design: "UbD/TBLT Pedagogical Engineering, Developer Extensions & Real-Time Collaboration"
 ```
@@ -108,7 +108,7 @@ system_strengths:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:0284c7,100:09090b&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:18181b,100:09090b&height=120&section=footer" width="100%" />
   <br/>
-  <sub>⚡ Engineered with Cyber Precision, ❤️ & Systems Thinking by Shiina ⚡</sub>
+  <sub>🕶️ Classified & Orchestrated with ❤️, Rigor & Systems Thinking by Shiina 🕶️</sub>
 </div>
