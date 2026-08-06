@@ -1,13 +1,13 @@
-<!-- shiina613 GitHub Profile README -->
+<!-- shiina613 GitHub Profile README — High-Tech Data Circuit Concept -->
 
 <div align="center">
 
-  <!-- Header Banner (Obsidian & Deep Crimson Red Palette) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:9f1239,100:e11d48&height=200&section=header&text=SHIINA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <!-- High-Tech Header Banner (Electric Cyan & Deep Obsidian Circuit Palette) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:0369a1,100:00f2fe&height=200&section=header&text=SHIINA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <!-- Animated Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=700&height=50&lines=AI+Platform+%26+MLOps+Architect;Deep+Learning+%26+Speech+Intelligence;Systems+Thinking+%E2%80%A2+Evidence-Driven+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=50&lines=AI+Platform+%26+MLOps+Architect;Deep+Learning+%26+Speech+Intelligence;High-Throughput+Model+Serving+%26+Data+Pipelines;Systems+Thinking+%E2%80%A2+Evidence-Driven+Engineering" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,14 +19,15 @@
     <i>"Driven by curiosity, clarity, and deep craftsmanship."</i>
   </p>
 
-  <!-- Social Badges (Deep Crimson Palette) -->
+  <!-- Social Badges (Electric Cyan Palette) -->
   <p align="center">
-    <a href="https://github.com/shiina613"><img src="https://img.shields.io/github/followers/shiina613?label=Followers&style=for-the-badge&color=be123c&logo=github&logoColor=white" alt="GitHub Followers"></a>
-    <a href="https://github.com/shiina613?tab=repositories"><img src="https://img.shields.io/github/stars/shiina613?label=Total%20Stars&style=for-the-badge&color=e11d48&logo=star&logoColor=white" alt="GitHub Stars"></a>
+    <a href="https://github.com/shiina613"><img src="https://img.shields.io/github/followers/shiina613?label=Followers&style=for-the-badge&color=0284c7&logo=github&logoColor=white" alt="GitHub Followers"></a>
+    <a href="https://github.com/shiina613?tab=repositories"><img src="https://img.shields.io/github/stars/shiina613?label=Total%20Stars&style=for-the-badge&color=38bdf8&logo=star&logoColor=white" alt="GitHub Stars"></a>
   </p>
 
 </div>
 
+<!-- Animated Data Pulse Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 💫 Active Focus & Daily Endeavors
@@ -47,6 +48,7 @@ identity:
 - 🤖 **Daily Engineering:** Developing voice-first AI Companion architectures, local STT/TTS pipelines, and edge optimization.
 - 🌟 **Daily Learning:** Self-studying IELTS Academic with evidence-based curriculum design and exploratory test sandboxes.
 
+<!-- Animated Data Pulse Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🛠️ Tech Stack & Ecosystem
@@ -73,6 +75,7 @@ identity:
 
 </div>
 
+<!-- Animated Data Pulse Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🚀 Featured Projects
@@ -88,6 +91,7 @@ identity:
 | ⚡ [**`pingping`**](https://github.com/shiina613/pingping) | Real-time collaboration portal, Kanban, and X-O arena for tech teams. | Vite, Vanilla JS, Supabase, PostgreSQL |
 | 🔌 [**`claudex`**](https://github.com/shiina613/claudex) | Private VS Code sidebar chat & Chrome companion bridge. | TypeScript, WebSocket, Chrome MV3 |
 
+<!-- Animated Data Pulse Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### ⚡ Core Engineering & Architectural Strengths
@@ -112,16 +116,16 @@ architectural_pillars:
 
 <br/>
 
-### 📈 Activity & Streak
+### 📈 Activity & Data Flow
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiina613&theme=dark&hide_border=true&background=09090b&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=94a3b8&sideTitle=e11d48" alt="Shiina's Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiina613&theme=dark&hide_border=true&background=0b0f19&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=38bdf8&sideTitle=00f2fe" alt="Shiina's Streak Stats" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:9f1239,100:09090b&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:0369a1,100:0b0f19&height=120&section=footer" width="100%" />
   <br/>
   <sub>Built with ❤️ & Systems Thinking by Shiina</sub>
 </div>
